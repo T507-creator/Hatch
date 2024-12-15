@@ -1,15 +1,15 @@
 {
-  "prefix": "!",
+  "prefix": "-",
   "adminUIDs": [
-    "Global Administrator UID"
+    "100079267516878"
   ],
   "moderatorUIDs": [
-    "MODERATOR UID",
+    "100079267516878",
     "",
     ""
   ],
-  "botName": "Your botName",
-  "ownerName": "Your Name",
+  "botName": "trashy",
+  "ownerName": "Thataone",
   "facebookLink": "Facebook link",
   "resend": false,
   "notilogs": true,
